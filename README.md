@@ -1,4 +1,4 @@
-<img width="1275" height="375" alt="github-header-banner" src="https://github.com/user-attachments/assets/21ae1e47-a62d-4d73-9780-add5a0102a6f" />
+<img src="https://github.com/user-attachments/assets/21ae1e47-a62d-4d73-9780-add5a0102a6f" alt="github-header-banner" width="700" />
 
 ### Computer science college student
 
